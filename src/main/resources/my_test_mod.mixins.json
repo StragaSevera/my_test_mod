@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.fabricmc.example.mixin",
+  "package": "ru.ought.my_test_mod.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],

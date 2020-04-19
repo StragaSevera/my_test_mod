@@ -1,4 +1,4 @@
-package net.fabricmc.example.mixin;
+package ru.ought.my_test_mod.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;

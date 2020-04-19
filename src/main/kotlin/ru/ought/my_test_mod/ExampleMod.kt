@@ -1,4 +1,4 @@
-package net.fabricmc.example
+package ru.ought.my_test_mod
 
 // For support join https://discord.gg/v6v4pMv
 
